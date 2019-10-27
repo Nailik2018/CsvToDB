@@ -6,6 +6,7 @@
 .classpath
 .c9/
 /venv
+/Datenbank_Funktionen
 *.launch
 .settings/
 *.sublime-workspace
